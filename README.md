@@ -5,4 +5,5 @@ A Client-Side Java Swing Solution used in Project Management
 
 2- PDF file directory and files must exist to display a scanned "Delivery Note"
 
-3-
+![CheckLieferungV6 screenshot](https://github.com/fgonenc/CheckLieferungV6/blob/master/app_screenshot.png "CheckLieferungV6 screenshot")
+
