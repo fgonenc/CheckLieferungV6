@@ -1,5 +1,8 @@
 # CheckLieferungV6
 A Client-Side Java Swing Solution used in Project Management
 
-Uses geliefert.xls
-PDF file directory and files needed to display "Delivery Note" i.e. Lieferschein
+1- Uses geliefert.xls
+
+2- PDF file directory and files must exist to display a scanned "Delivery Note"
+
+3-
